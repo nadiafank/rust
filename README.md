@@ -15,3 +15,10 @@ Experiments with THREE.js and glslify. Some glslify features:
 ## License
 
 MIT, see [LICENSE.md](http://github.com/mattdesl/rust/blob/master/LICENSE.md) for details.
+
+
+## Notas y enlaces tecnología utilizada
+https://mattdesl.svbtle.com/some-javascript-sketches#rust_1
+
+Model viewer
+http://www.ro.me/tech/
